@@ -1,3 +1,0 @@
-# 3S Li-ion Battery Pack with 20A Protection Circuit: 
-
-This lithium-ion battery pack consists of three cells connected in series, forming a 3S configuration. When fully charged, it reaches 12.6V, while maintaining an operating voltage of approximately 11.1V during regular use. The pack is integrated with a 20A-rated battery management system (BMS), which provides comprehensive protection against overcharging, over-discharging, and short circuits, ensuring safe and efficient power delivery. Due to its high energy density and reliable performance, this battery pack is widely utilized in robotics, portable electronics, and other high-power applications requiring stable voltage regulation and thermal protection. Consequently, used to supply our robot with power.
