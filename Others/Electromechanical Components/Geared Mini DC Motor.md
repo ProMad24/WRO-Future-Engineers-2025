@@ -1,5 +1,0 @@
-# G12-N20 Geared Mini DC Motor:
-
-- Engineered for low-speed, high-torque applications, the N20 DC 6V 55RPM gear motor is a dependable choice for robotics, automation, and precision-driven systems. Operating at 55 RPM under no-load conditions, it is optimized for tasks requiring controlled movement while ensuring efficiency. Its advanced gear reduction system significantly enhances torque output, delivering a rated torque of approximately 2.5 kg-cm, with stall torque reaching nearly 8 kg-cm under heavy loads—guaranteeing reliable performance even in demanding environments. Additionally, the motor incorporates a durable metal gearbox, which improves longevity and reduces wear over time. The M3-threaded shaft facilitates secure mechanical coupling, allowing for straightforward installation and stable operation. With its compact design, impressive torque efficiency, and robust construction, this motor remains a versatile and essential component across a wide spectrum of technical applications.
-
-- In our project, this motor is used for the rear-wheel drive. With the help of a Lego Differential Gear, it alone rotates the rear wheels.
